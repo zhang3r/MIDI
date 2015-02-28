@@ -1,4 +1,5 @@
 var config = require('./config');
+var processing = require('./processing');
 
 var app = require('express')();
 var http = require('http').Server(app);
@@ -17,10 +18,10 @@ client = new Twitter(config.twitter);
 client.track('#TheDress');
 
 client.on('tweet', function(tweet) {
-  var note = tweet.text.length % 26 + 48;
+  var notes = processing.process(tweet);
   var data = {
     tweet: tweet.text,
-    note: note
+    notes: notes
   };
   io.emit('tweet', data);
 });

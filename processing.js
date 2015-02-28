@@ -4,7 +4,7 @@ function process(text){
 	var tweet = null;
 	if( Array.isArray(obj) ) {
 		for(var j=0; j< obj.length;j++){
-          
+
             tweet = obj[j].text;
 			for (var i = 0; i < tweet.length; i++) {
 				var x = tweet.charAt(i).charCodeAt(0);
@@ -14,8 +14,8 @@ function process(text){
 				if(x>73||x<48){
 					x = (x%26)+48;
 				}
-				
-				
+
+
 				numbers.push(x);
 			}
 		}
@@ -29,13 +29,17 @@ function process(text){
 			if(x>73||x<48){
 				x = (x%26)+48;
 			}
-			
-			
+
+
 			numbers.push(x);
 		}
 	}
-	
-	
-	
+
+
+
 	return numbers;
 }
+
+module.exports = {
+	process: process
+};
