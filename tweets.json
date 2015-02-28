@@ -1,0 +1,1349 @@
+[
+    {
+        "created_at": "Sat Feb 28 21:12:58 +0000 2015",
+        "id": 571780120375140350,
+        "id_str": "571780120375140352",
+        "text": "RT @Edanurkkk: #TheDress \n-ayrılalım mı?\n+tamam\n-son bir sey söylemek ister misin?\n+o elbise mavi siyah",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1311266083,
+            "id_str": "1311266083",
+            "name": "Güloo",
+            "screen_name": "gulobisus",
+            "location": "Ankara",
+            "url": "http://lonelyandterrible.tumblr.com/",
+            "description": "MUSTAFA KEMAL ATATÜRK",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1476,
+            "friends_count": 1394,
+            "listed_count": 0,
+            "favourites_count": 9854,
+            "statuses_count": 5620,
+            "created_at": "Thu Mar 28 17:29:34 +0000 2013",
+            "utc_offset": 7200,
+            "time_zone": "Athens",
+            "geo_enabled": false,
+            "lang": "tr",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "21EBB9",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/567016651485216769/CanOD7Qb.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/567016651485216769/CanOD7Qb.jpeg",
+            "profile_background_tile": true,
+            "profile_link_color": "030303",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/565676530844454912/qfJM-k4A_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/565676530844454912/qfJM-k4A_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1311266083/1424022419",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Feb 28 19:28:03 +0000 2015",
+            "id": 571753717218869250,
+            "id_str": "571753717218869248",
+            "text": "#TheDress \n-ayrılalım mı?\n+tamam\n-son bir sey söylemek ister misin?\n+o elbise mavi siyah",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2276089902,
+                "id_str": "2276089902",
+                "name": "Directioner",
+                "screen_name": "Edanurkkk",
+                "location": "",
+                "url": null,
+                "description": "İntikam almayı sevmem ama ödeşmek adettendir. UNF-UNF",
+                "protected": false,
+                "verified": false,
+                "followers_count": 1855,
+                "friends_count": 1754,
+                "listed_count": 0,
+                "favourites_count": 3224,
+                "statuses_count": 3486,
+                "created_at": "Sat Jan 04 13:05:06 +0000 2014",
+                "utc_offset": 7200,
+                "time_zone": "Athens",
+                "geo_enabled": false,
+                "lang": "tr",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "961242",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/571747972208013312/o24ETH0Z.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/571747972208013312/o24ETH0Z.jpeg",
+                "profile_background_tile": true,
+                "profile_link_color": "124563",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/569175253125853184/0ty-Mleu_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/569175253125853184/0ty-Mleu_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2276089902/1425049920",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 5,
+            "favorite_count": 16,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "TheDress",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "trends": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "tr"
+        },
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TheDress",
+                    "indices": [
+                        15,
+                        24
+                    ]
+                }
+            ],
+            "trends": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Edanurkkk",
+                    "name": "Directioner",
+                    "id": 2276089902,
+                    "id_str": "2276089902",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "tr",
+        "timestamp_ms": "1425157978515"
+    },
+    {
+        "created_at": "Sat Feb 28 21:12:58 +0000 2015",
+        "id": 571780120236576800,
+        "id_str": "571780120236576768",
+        "text": "RT @JohnAlvaradoV: Ya basta !!! #TheDress http://t.co/2RuqZDWFPv",
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1236986431,
+            "id_str": "1236986431",
+            "name": "KMSH.",
+            "screen_name": "kathyakatt",
+            "location": "Puebla.",
+            "url": null,
+            "description": "instagram: kathyamichelle2  'Cuando estoy con el lo único que me hace falta es tiempo.' ❤ Juan❤",
+            "protected": false,
+            "verified": false,
+            "followers_count": 519,
+            "friends_count": 1597,
+            "listed_count": 1,
+            "favourites_count": 1057,
+            "statuses_count": 4188,
+            "created_at": "Sat Mar 02 23:42:19 +0000 2013",
+            "utc_offset": -21600,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": true,
+            "lang": "es",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "CC2B63",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000111555632/3db9dfefcbca7499338799106829ed6f.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000111555632/3db9dfefcbca7499338799106829ed6f.png",
+            "profile_background_tile": true,
+            "profile_link_color": "66B0F2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/570803418060582912/sbwz8kEx_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/570803418060582912/sbwz8kEx_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236986431/1424925249",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Feb 28 06:30:12 +0000 2015",
+            "id": 571557964064141300,
+            "id_str": "571557964064141313",
+            "text": "Ya basta !!! #TheDress http://t.co/2RuqZDWFPv",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 616558592,
+                "id_str": "616558592",
+                "name": "John Alvarado V",
+                "screen_name": "JohnAlvaradoV",
+                "location": "Perú",
+                "url": "https://www.facebook.com/john.alvarado.773776",
+                "description": "Hoy desperté con más ganas de seguir durmiendo que de vivir.",
+                "protected": false,
+                "verified": false,
+                "followers_count": 84651,
+                "friends_count": 69637,
+                "listed_count": 41,
+                "favourites_count": 346,
+                "statuses_count": 3638,
+                "created_at": "Sat Jun 23 23:11:10 +0000 2012",
+                "utc_offset": -18000,
+                "time_zone": "Lima",
+                "geo_enabled": false,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "40474A",
+                "profile_sidebar_border_color": "A8C7F7",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/551527749823639552/y6E_e8Qg_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/551527749823639552/y6E_e8Qg_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/616558592/1411233611",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 235,
+            "favorite_count": 65,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "TheDress",
+                        "indices": [
+                            13,
+                            22
+                        ]
+                    }
+                ],
+                "trends": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 571557963304996860,
+                        "id_str": "571557963304996865",
+                        "indices": [
+                            23,
+                            45
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/B-6U8HtXEAEBWYp.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/B-6U8HtXEAEBWYp.jpg",
+                        "url": "http://t.co/2RuqZDWFPv",
+                        "display_url": "pic.twitter.com/2RuqZDWFPv",
+                        "expanded_url": "http://twitter.com/JohnAlvaradoV/status/571557964064141313/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 400,
+                                "h": 387,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 328,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 400,
+                                "h": 387,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 571557963304996860,
+                        "id_str": "571557963304996865",
+                        "indices": [
+                            23,
+                            45
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/B-6U8HtXEAEBWYp.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/B-6U8HtXEAEBWYp.jpg",
+                        "url": "http://t.co/2RuqZDWFPv",
+                        "display_url": "pic.twitter.com/2RuqZDWFPv",
+                        "expanded_url": "http://twitter.com/JohnAlvaradoV/status/571557964064141313/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 400,
+                                "h": 387,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 328,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 400,
+                                "h": 387,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "es"
+        },
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TheDress",
+                    "indices": [
+                        32,
+                        41
+                    ]
+                }
+            ],
+            "trends": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JohnAlvaradoV",
+                    "name": "John Alvarado V",
+                    "id": 616558592,
+                    "id_str": "616558592",
+                    "indices": [
+                        3,
+                        17
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 571557963304996860,
+                    "id_str": "571557963304996865",
+                    "indices": [
+                        63,
+                        64
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/B-6U8HtXEAEBWYp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/B-6U8HtXEAEBWYp.jpg",
+                    "url": "http://t.co/2RuqZDWFPv",
+                    "display_url": "pic.twitter.com/2RuqZDWFPv",
+                    "expanded_url": "http://twitter.com/JohnAlvaradoV/status/571557964064141313/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 400,
+                            "h": 387,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 328,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 400,
+                            "h": 387,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 571557964064141300,
+                    "source_status_id_str": "571557964064141313"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 571557963304996860,
+                    "id_str": "571557963304996865",
+                    "indices": [
+                        63,
+                        64
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/B-6U8HtXEAEBWYp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/B-6U8HtXEAEBWYp.jpg",
+                    "url": "http://t.co/2RuqZDWFPv",
+                    "display_url": "pic.twitter.com/2RuqZDWFPv",
+                    "expanded_url": "http://twitter.com/JohnAlvaradoV/status/571557964064141313/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 400,
+                            "h": 387,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 328,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 400,
+                            "h": 387,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 571557964064141300,
+                    "source_status_id_str": "571557964064141313"
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "es",
+        "timestamp_ms": "1425157978482"
+    },
+    {
+        "created_at": "Sat Feb 28 21:12:58 +0000 2015",
+        "id": 571780121360789500,
+        "id_str": "571780121360789506",
+        "text": "RT @luvkeskjnny: Come lo vedete il vestito di Maria, bianco e oro o blu e nero?\n#cepostaperte #thedress",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2894841473,
+            "id_str": "2894841473",
+            "name": "1 9 9 3 .⚓",
+            "screen_name": "Xstylesoverdose",
+            "location": "",
+            "url": null,
+            "description": "❝ѕα¢яιfι¢hєяєι αииι ∂єℓℓα мια νιтα,ѕσℓσ ρєя ανєятι qυι αℓмєиσ υи ιѕтαитє❞  Lou is my Bæ.✨",
+            "protected": false,
+            "verified": false,
+            "followers_count": 909,
+            "friends_count": 1003,
+            "listed_count": 0,
+            "favourites_count": 6106,
+            "statuses_count": 10161,
+            "created_at": "Thu Nov 27 16:59:34 +0000 2014",
+            "utc_offset": 3600,
+            "time_zone": "Rome",
+            "geo_enabled": false,
+            "lang": "it",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/571100929107337216/P4Uf3XiI_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/571100929107337216/P4Uf3XiI_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2894841473/1424995870",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Feb 28 21:11:35 +0000 2015",
+            "id": 571779773502005250,
+            "id_str": "571779773502005248",
+            "text": "Come lo vedete il vestito di Maria, bianco e oro o blu e nero?\n#cepostaperte #thedress",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1186588112,
+                "id_str": "1186588112",
+                "name": "Desirè.✨",
+                "screen_name": "luvkeskjnny",
+                "location": "5sos • sтadιo saɴ paolo // ek.",
+                "url": null,
+                "description": "E fanculo, io non voglio tutto questo, io voglio solo te e poi lo butto il resto @mattiabriga||①⑨②⑥✨☠ℬriga☠ mosϮro // giorgio.",
+                "protected": false,
+                "verified": false,
+                "followers_count": 8511,
+                "friends_count": 4964,
+                "listed_count": 54,
+                "favourites_count": 10658,
+                "statuses_count": 11859,
+                "created_at": "Sat Feb 16 15:34:42 +0000 2013",
+                "utc_offset": 7200,
+                "time_zone": "Athens",
+                "geo_enabled": false,
+                "lang": "it",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "88898A",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/539464198036549633/6xuCaCUU.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/539464198036549633/6xuCaCUU.jpeg",
+                "profile_background_tile": true,
+                "profile_link_color": "050505",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "95E8EC",
+                "profile_text_color": "3C3940",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/552106875828043776/VMmSSf7X_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/552106875828043776/VMmSSf7X_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1186588112/1420562981",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 2,
+            "favorite_count": 2,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "cepostaperte",
+                        "indices": [
+                            63,
+                            76
+                        ]
+                    },
+                    {
+                        "text": "thedress",
+                        "indices": [
+                            77,
+                            86
+                        ]
+                    }
+                ],
+                "trends": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "it"
+        },
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "cepostaperte",
+                    "indices": [
+                        80,
+                        93
+                    ]
+                },
+                {
+                    "text": "thedress",
+                    "indices": [
+                        94,
+                        103
+                    ]
+                }
+            ],
+            "trends": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "luvkeskjnny",
+                    "name": "Desirè.✨",
+                    "id": 1186588112,
+                    "id_str": "1186588112",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "it",
+        "timestamp_ms": "1425157978750"
+    },
+    {
+        "created_at": "Sat Feb 28 21:12:59 +0000 2015",
+        "id": 571780122925125600,
+        "id_str": "571780122925125632",
+        "text": "RT @JohnAlvaradoV: Ya basta !!! #TheDress http://t.co/2RuqZDWFPv",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2975151023,
+            "id_str": "2975151023",
+            "name": "Alternative Life",
+            "screen_name": "Road_ToHell",
+            "location": "",
+            "url": null,
+            "description": "Solo entiende mi locura quien conoce mi Pasión",
+            "protected": false,
+            "verified": false,
+            "followers_count": 260,
+            "friends_count": 487,
+            "listed_count": 1,
+            "favourites_count": 9,
+            "statuses_count": 388,
+            "created_at": "Mon Jan 12 19:06:09 +0000 2015",
+            "utc_offset": -21600,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": false,
+            "lang": "es",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/565993052557176833/LwAYi4RL.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/565993052557176833/LwAYi4RL.jpeg",
+            "profile_background_tile": true,
+            "profile_link_color": "1A1B1F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/571083146339172352/8QGGHz0u_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/571083146339172352/8QGGHz0u_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2975151023/1425062998",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Feb 28 06:30:12 +0000 2015",
+            "id": 571557964064141300,
+            "id_str": "571557964064141313",
+            "text": "Ya basta !!! #TheDress http://t.co/2RuqZDWFPv",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 616558592,
+                "id_str": "616558592",
+                "name": "John Alvarado V",
+                "screen_name": "JohnAlvaradoV",
+                "location": "Perú",
+                "url": "https://www.facebook.com/john.alvarado.773776",
+                "description": "Hoy desperté con más ganas de seguir durmiendo que de vivir.",
+                "protected": false,
+                "verified": false,
+                "followers_count": 84651,
+                "friends_count": 69637,
+                "listed_count": 41,
+                "favourites_count": 346,
+                "statuses_count": 3638,
+                "created_at": "Sat Jun 23 23:11:10 +0000 2012",
+                "utc_offset": -18000,
+                "time_zone": "Lima",
+                "geo_enabled": false,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "40474A",
+                "profile_sidebar_border_color": "A8C7F7",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/551527749823639552/y6E_e8Qg_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/551527749823639552/y6E_e8Qg_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/616558592/1411233611",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 236,
+            "favorite_count": 65,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "TheDress",
+                        "indices": [
+                            13,
+                            22
+                        ]
+                    }
+                ],
+                "trends": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 571557963304996860,
+                        "id_str": "571557963304996865",
+                        "indices": [
+                            23,
+                            45
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/B-6U8HtXEAEBWYp.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/B-6U8HtXEAEBWYp.jpg",
+                        "url": "http://t.co/2RuqZDWFPv",
+                        "display_url": "pic.twitter.com/2RuqZDWFPv",
+                        "expanded_url": "http://twitter.com/JohnAlvaradoV/status/571557964064141313/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 400,
+                                "h": 387,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 328,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 400,
+                                "h": 387,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 571557963304996860,
+                        "id_str": "571557963304996865",
+                        "indices": [
+                            23,
+                            45
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/B-6U8HtXEAEBWYp.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/B-6U8HtXEAEBWYp.jpg",
+                        "url": "http://t.co/2RuqZDWFPv",
+                        "display_url": "pic.twitter.com/2RuqZDWFPv",
+                        "expanded_url": "http://twitter.com/JohnAlvaradoV/status/571557964064141313/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 400,
+                                "h": 387,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 328,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 400,
+                                "h": 387,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "es"
+        },
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TheDress",
+                    "indices": [
+                        32,
+                        41
+                    ]
+                }
+            ],
+            "trends": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JohnAlvaradoV",
+                    "name": "John Alvarado V",
+                    "id": 616558592,
+                    "id_str": "616558592",
+                    "indices": [
+                        3,
+                        17
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 571557963304996860,
+                    "id_str": "571557963304996865",
+                    "indices": [
+                        63,
+                        64
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/B-6U8HtXEAEBWYp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/B-6U8HtXEAEBWYp.jpg",
+                    "url": "http://t.co/2RuqZDWFPv",
+                    "display_url": "pic.twitter.com/2RuqZDWFPv",
+                    "expanded_url": "http://twitter.com/JohnAlvaradoV/status/571557964064141313/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 400,
+                            "h": 387,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 328,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 400,
+                            "h": 387,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 571557964064141300,
+                    "source_status_id_str": "571557964064141313"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 571557963304996860,
+                    "id_str": "571557963304996865",
+                    "indices": [
+                        63,
+                        64
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/B-6U8HtXEAEBWYp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/B-6U8HtXEAEBWYp.jpg",
+                    "url": "http://t.co/2RuqZDWFPv",
+                    "display_url": "pic.twitter.com/2RuqZDWFPv",
+                    "expanded_url": "http://twitter.com/JohnAlvaradoV/status/571557964064141313/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 400,
+                            "h": 387,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 328,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 400,
+                            "h": 387,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 571557964064141300,
+                    "source_status_id_str": "571557964064141313"
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "es",
+        "timestamp_ms": "1425157979123"
+    },
+    {
+        "created_at": "Sat Feb 28 21:12:59 +0000 2015",
+        "id": 571780123441139700,
+        "id_str": "571780123441139712",
+        "text": "RT @GlrlProb: Best one yet #TheDress http://t.co/I5bZlpbIDd",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1285215486,
+            "id_str": "1285215486",
+            "name": "ely",
+            "screen_name": "abcdEly",
+            "location": "New York",
+            "url": null,
+            "description": "Korean | Filipino",
+            "protected": false,
+            "verified": false,
+            "followers_count": 418,
+            "friends_count": 324,
+            "listed_count": 0,
+            "favourites_count": 1382,
+            "statuses_count": 2570,
+            "created_at": "Thu Mar 21 06:27:52 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/456260676126654464/TQcxYe8u.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/456260676126654464/TQcxYe8u.jpeg",
+            "profile_background_tile": false,
+            "profile_link_color": "080A0A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/569602858467995648/EeMFi9KU_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/569602858467995648/EeMFi9KU_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1285215486/1396685092",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Feb 28 20:50:18 +0000 2015",
+            "id": 571774414125064200,
+            "id_str": "571774414125064192",
+            "text": "Best one yet #TheDress http://t.co/I5bZlpbIDd",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2926500445,
+                "id_str": "2926500445",
+                "name": "female probs",
+                "screen_name": "GlrlProb",
+                "location": "",
+                "url": null,
+                "description": "Pizza and Netflix",
+                "protected": false,
+                "verified": false,
+                "followers_count": 142517,
+                "friends_count": 35873,
+                "listed_count": 2,
+                "favourites_count": 47,
+                "statuses_count": 93,
+                "created_at": "Thu Dec 11 06:39:26 +0000 2014",
+                "utc_offset": -18000,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/562443816482111490/zt9gUpU2_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/562443816482111490/zt9gUpU2_normal.jpeg",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 195,
+            "favorite_count": 293,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "TheDress",
+                        "indices": [
+                            13,
+                            22
+                        ]
+                    }
+                ],
+                "trends": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 571747183399211000,
+                        "id_str": "571747183399211008",
+                        "indices": [
+                            23,
+                            45
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/B-9BCLfXEAAoWeT.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/B-9BCLfXEAAoWeT.jpg",
+                        "url": "http://t.co/I5bZlpbIDd",
+                        "display_url": "pic.twitter.com/I5bZlpbIDd",
+                        "expanded_url": "http://twitter.com/femaIes/status/571747183449526272/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1024,
+                                "h": 640,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 375,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 212,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 571747183449526300,
+                        "source_status_id_str": "571747183449526272"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 571747183399211000,
+                        "id_str": "571747183399211008",
+                        "indices": [
+                            23,
+                            45
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/B-9BCLfXEAAoWeT.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/B-9BCLfXEAAoWeT.jpg",
+                        "url": "http://t.co/I5bZlpbIDd",
+                        "display_url": "pic.twitter.com/I5bZlpbIDd",
+                        "expanded_url": "http://twitter.com/femaIes/status/571747183449526272/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1024,
+                                "h": 640,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 375,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 212,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 571747183449526300,
+                        "source_status_id_str": "571747183449526272"
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TheDress",
+                    "indices": [
+                        27,
+                        36
+                    ]
+                }
+            ],
+            "trends": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "GlrlProb",
+                    "name": "female probs",
+                    "id": 2926500445,
+                    "id_str": "2926500445",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 571747183399211000,
+                    "id_str": "571747183399211008",
+                    "indices": [
+                        58,
+                        59
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/B-9BCLfXEAAoWeT.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/B-9BCLfXEAAoWeT.jpg",
+                    "url": "http://t.co/I5bZlpbIDd",
+                    "display_url": "pic.twitter.com/I5bZlpbIDd",
+                    "expanded_url": "http://twitter.com/femaIes/status/571747183449526272/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1024,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 375,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 212,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 571747183449526300,
+                    "source_status_id_str": "571747183449526272"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 571747183399211000,
+                    "id_str": "571747183399211008",
+                    "indices": [
+                        58,
+                        59
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/B-9BCLfXEAAoWeT.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/B-9BCLfXEAAoWeT.jpg",
+                    "url": "http://t.co/I5bZlpbIDd",
+                    "display_url": "pic.twitter.com/I5bZlpbIDd",
+                    "expanded_url": "http://twitter.com/femaIes/status/571747183449526272/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1024,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 375,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 212,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 571747183449526300,
+                    "source_status_id_str": "571747183449526272"
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1425157979246"
+    }
+]
