@@ -1,0 +1,22 @@
+{
+  "name": "musicbot",
+  "version": "0.0.1",
+  "description": "spotify hackaton stuff",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/colorstain/musicbot"
+  },
+  "keywords": [
+    "music",
+    "computer"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "twitter": "^1.2.1"
+  }
+}
