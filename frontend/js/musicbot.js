@@ -25,6 +25,7 @@
     this.socket.connect();
     this.socket.onData = function (data) {
       data.notes = MusicBotTransfomer.process({ text: data.tweet });
+      data.tweet = data.tweet.replace(/(\#[A-Za-z0-9-+\/]+[^A-Za-z0-9-+\/])/g, "<u style=\"color: blue;\">$1</u>");
       for (var i = 0 ; i < data.notes.length; i += Math.round(Math.random()*(12 - 4) + 4)) {
         self.player.queue({ note: data.notes[i], tweet: data.tweet });
       }
