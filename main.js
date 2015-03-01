@@ -16,6 +16,8 @@ io.on('connection', function(socket){
 client = new Twitter(config.twitter);
 
 client.track('#TheDress');
+client.track('#LLAP');
+client.track('#OffendEveryoneIn4Words');
 
 client.on('tweet', function(tweet) {
   var notes = processing.process(tweet);
