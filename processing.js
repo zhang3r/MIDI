@@ -1,7 +1,7 @@
 function process(text){
 	var obj = text;
 	var numbers = [];
-	var notes = [0, 2, 4, 5, 7, 9, 11, 13, 15, 17, 18, 20, 22, 24, 25];
+	var notes = [0, 2, 4, 5, 7, 9, 11, 12, 14, 16, 17, 19, 21, 23, 24];
 	var tweet = null;
 	if( Array.isArray(obj) ) {
 		for(var j=0; j< obj.length;j++){
@@ -24,7 +24,7 @@ function process(text){
 		tweet = obj.text;
 		for (var k = 0; k < tweet.length; k++) {
 			var num = tweet.charAt(k).charCodeAt(0) % notes.length;
-			var note = notes[num];
+			var note = notes[num] + 48;
 			numbers.push(note);
 		}
 	}
