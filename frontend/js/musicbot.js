@@ -8,7 +8,7 @@
     this.$ui = $($ui);
 
     this.player = new MusicBotPlayer();
-    this.player.delay = 0.1;
+    this.player.delay = 0.25;
     this.lastText = null;
     this.player.onNotePlayed = function (data) {
       if (self.lastText === data.tweet) {
@@ -24,12 +24,13 @@
     this.socket.onData = "TODO";
     this.socket.connect();
     this.socket.onData = function (data) {
-      for (var i = 0 ; i < data.notes.length; i += 4) {
+      data.notes = MusicBotTransfomer.process({ text: data.tweet });
+      for (var i = 0 ; i < data.notes.length; i += Math.round(Math.random()*(12 - 4) + 4)) {
         self.player.queue({ note: data.notes[i], tweet: data.tweet });
       }
     };
 
-    this.setStatus("Stopped");
+    this.setStatus("Ready");
     $('.play-toggle', $ui).on('click', function () {
       if (self.player.isPlaying()) {
         self.player.stop();
@@ -67,12 +68,12 @@
   MusicBotPlayer.prototype.onNotePlayed = null; //Callback when a note is played
   MusicBotPlayer.prototype.start = function () {
     var self = this;
-    this.interval = setInterval(function () {
+    this.interval = setTimeout(function () {
       self.processNote.call(self);
     }, this.delay * 1000);
   };
   MusicBotPlayer.prototype.stop = function () {
-    clearInterval(this.interval);
+    setTimeout(this.interval);
     this.interval = null;
   };
   MusicBotPlayer.prototype.queue = function (data) {
@@ -88,6 +89,7 @@
     return (this.interval) ? true : false;
   };
   MusicBotPlayer.prototype.processNote = function () {
+    var self = this;
     if (this.buffer.length <= 0) {
       return;
     }
@@ -96,10 +98,13 @@
     //Play the current note
     var velocity = 127;
     var volume = 127;
+    //var delay = this.delay;
+    var delay = [0.125, 0.25][Math.round(Math.random()*(2))];
+    var duration = delay;
 
     MIDI.setVolume(0, volume);
     MIDI.noteOn(0, this.buffer[this.pointer].note, velocity, 0);
-    MIDI.noteOff(0, this.buffer[this.pointer].note, this.delay);
+    MIDI.noteOff(0, this.buffer[this.pointer].note, delay);
 
     if (this.onNotePlayed) {
       this.onNotePlayed(this.buffer[this.pointer]);
@@ -107,6 +112,9 @@
 
     this.pointer = (this.pointer + 1) % (this.buffer.length || 1);
 
+    this.interval = setTimeout(function () {
+      self.processNote.call(self);
+    }, duration * 1000);
   };
 
   //Socket connection
@@ -131,5 +139,44 @@
   //Close socket connection
   MusicBotSocket.prototype.close = function () {
     console.log("Closing socket connection...");
+  };
+
+  //Helpers to transform a notes array
+  var MusicBotTransfomer = function() {};
+
+  MusicBotTransfomer.dummy = function (notes) {
+    return notes;
+  };
+  MusicBotTransfomer.process = function (text) {
+    var obj = text;
+    var numbers = [];
+    var notes = [0, 2, 4, 5, 7, 9, 11, 12, 14, 16, 17, 19, 21, 23, 24];
+    var tweet = null;
+    if( Array.isArray(obj) ) {
+      for(var j=0; j< obj.length;j++){
+
+              tweet = obj[j].text;
+        for (var i = 0; i < tweet.length; i++) {
+          var x = tweet.charAt(i).charCodeAt(0);
+          if(x==32){
+            continue;
+          }
+          if(x>73||x<48){
+            x = (x%26)+48;
+          }
+
+
+          numbers.push(x);
+        }
+      }
+    }else{
+      tweet = obj.text;
+      for (var k = 0; k < tweet.length; k++) {
+        var num = tweet.charAt(k).charCodeAt(0) % notes.length;
+        var note = notes[num] + 48;
+        numbers.push(note);
+      }
+    }
+    return numbers;
   };
 })(window);
