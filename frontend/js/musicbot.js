@@ -8,11 +8,15 @@
     this.$ui = $($ui);
 
     this.player = new MusicBotPlayer();
-    this.player.delay = 1;
+    this.player.delay = 0.1;
+    this.lastText = null;
     this.player.onNotePlayed = function (data) {
-      $('.tweet-text', this.$ui).append("\r\n"+data.tweet);
-      $('.tweet-text', this.$ui).append("\r\n---------------------------------------");
-      $('.tweet-text', this.$ui).scrollTop($('.tweet-text', this.$ui)[0].scrollHeight - $('.tweet-text', this.$ui).height());
+      if (self.lastText === data.tweet) {
+        //TODO: this is really bad
+        return;
+      }
+      self.lastText = data.tweet;
+      $('.tweet-text', this.$ui).html("<br/>"+data.tweet);
     };
 
 
@@ -20,7 +24,9 @@
     this.socket.onData = "TODO";
     this.socket.connect();
     this.socket.onData = function (data) {
-      self.player.queue(data);
+      for (var i = 0 ; i < data.notes.length; i += 4) {
+        self.player.queue({ note: data.notes[i], tweet: data.tweet });
+      }
     };
 
     this.setStatus("Stopped");
@@ -70,13 +76,13 @@
     this.interval = null;
   };
   MusicBotPlayer.prototype.queue = function (data) {
-    if (this.buffer.length > 20) {
-      return;
-    }
+    //if (this.buffer.length > 20) {
+      //return;
+    //}
     this.buffer.push(data);
-    if (this.buffer.length > 20) {
-      this.buffer.shift();
-    }
+    //if (this.buffer.length > 20) {
+      //this.buffer.shift();
+    //}
   };
   MusicBotPlayer.prototype.isPlaying = function () {
     return (this.interval) ? true : false;
@@ -89,7 +95,9 @@
 
     //Play the current note
     var velocity = 127;
-    MIDI.setVolume(0, 127);
+    var volume = 127;
+
+    MIDI.setVolume(0, volume);
     MIDI.noteOn(0, this.buffer[this.pointer].note, velocity, 0);
     MIDI.noteOff(0, this.buffer[this.pointer].note, this.delay);
 
